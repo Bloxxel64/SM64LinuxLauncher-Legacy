@@ -38,7 +38,7 @@ Specify the build flags, you can find which build flags are avaible for your rep
 Click "Build". Now wait patiently for the build to finish. When it finishes, game should lauch shortly after. If you see a text box and the game does not launch for like 2 minutes, it means that your build failed. delete the repo folder and try to build again. If the game launches, it is ok. When you restart the launcher, it should show the new build on the list.
 
 ### Tip
-if you want a shortcut to the laucher, on ubuntu, you can do this by making a file called `sm64launcher.desktop` in `/home/username/.local/share/applications/` containing the following:  
+if you want a shortcut to the laucher, on ubuntu, you can do this by making a file called `sm64launcher.desktop` in `$HOME/.local/share/applications/` containing the following:  
 `[Desktop Entry]`  
 `Name=SM64 launcher`  
 `Type=Application`  
