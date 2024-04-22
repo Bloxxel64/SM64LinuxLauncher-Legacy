@@ -2,7 +2,7 @@
 A launcher for the Super Mario 64 PC Port. Based off of sm64pclauncher.
 
 # NOTICE!
-As of 4/18/24, this repo is reaching it's end-of life. The codebase for the launcher has gotten too out of hand, and tk/tkinter + PySimpleGUI, the window and GUI libraries, are just not very great. I will hopefully be starting work on a full remake coded in Python or C++ using qt instead of tkinter and PySGUI. In the meantime, i will try to resolve any misc issues that have arisen. Please understand, Hai.
+As of 4/18/24, this repo is reaching it's end-of life. The codebase for the launcher has gotten too out of hand, and tk/tkinter + PySimpleGUI, the window and GUI libraries, are just not very great. I will hopefully be starting work on a full remake coded in Python or C++ using qt or gnome builder instead of tkinter and PySGUI. In the meantime, i will try to resolve any misc issues that have arisen. Please understand, Hai.
 
 ![screenshot](https://cdn.discordapp.com/attachments/775908791417700363/996196405708329030/Screenshot_from_2022-07-11_18-28-18.png?size=4096)
 
