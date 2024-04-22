@@ -6,11 +6,13 @@ As of 4/18/24, this repo is reaching it's end-of life. The codebase for the laun
 
 ![screenshot](https://cdn.discordapp.com/attachments/775908791417700363/996196405708329030/Screenshot_from_2022-07-11_18-28-18.png?size=4096)
 
+also the script will mostly not work due to "externally-managed-environment" error, this can be fixed by either installing the native packages of the libraries used, or by using virtual environment (require some extra work)
+
 ## GNU/Linux installation
 ### Using the Install Script
 1. Install git if you have not already:
  * `sudo apt-get install git` on Debian/Ubuntu based systems,
- * `sudo pacman install git` on arch based systems, or
+ * `sudo pacman -S git` on arch based systems, or
 
 2. Clone the repo using this command:
 `git clone https://github.com/Bloxxel64/SM64LinuxLauncher`.
