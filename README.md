@@ -4,6 +4,9 @@ A launcher for the Super Mario 64 PC Port. Based off of sm64pclauncher.
 # NOTICE!
 As of 4/18/24, this repo is reaching it's end-of life. The codebase for the launcher has gotten too out of hand, and tk/tkinter + PySimpleGUI, the window and GUI libraries, are just not very great. I will hopefully be starting work on a full remake coded in Python or C++ using qt or gnome builder instead of tkinter and PySGUI. In the meantime, i will try to resolve any misc issues that have arisen. Please understand, Hai.
 
+# NOTICE 2!
+As of today, 6/17/24. This repo is archived and no longer receiving commits, the updated version of SM64LL will be available sometime this year at https://github.com/Bloxxel64/SM64LinuxLauncher. Thanks to everyone who has used, starred, and contributed to this software. :3
+
 ![screenshot](https://cdn.discordapp.com/attachments/775908791417700363/996196405708329030/Screenshot_from_2022-07-11_18-28-18.png?size=4096)
 
 also the script will mostly not work due to "externally-managed-environment" error, this can be fixed by either installing the native packages of the libraries used, or by using virtual environment (require some extra work)
